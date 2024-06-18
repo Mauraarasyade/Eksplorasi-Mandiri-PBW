@@ -1,5 +1,5 @@
 # Eksplorasi-Mandiri-PBW
-Nama           : Maura Aqlaila Rasyade
+Nama           : Maura Aqlaila Rasyade <br>
 NPM            : 2210631250060
 Mata Kuliah    : Pemrograman Berbasis Web
 Dosen Pengampu : Kamal Prihandani, S.Kom., M.Kom.
